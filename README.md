@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ravi !</h1>
-<h3 align="center">A passionate data scientist and biochemist.</h3>
+<h3 align="center">A passionate data scientist and specialized in biochemistry and data analytics. </h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravitpt08](https://github.com/ravitpt08)
 
